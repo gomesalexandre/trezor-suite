@@ -1,8 +1,6 @@
 {
-    "model": "claude-opus-4-8",
-    "env": {
-        "MAX_THINKING_TOKENS": "128"
-    },
+    "model": "claude-sonnet-5",
+    "effortLevel": "low",
     "permissions": {
         "defaultMode": "auto",
         "deny": [
